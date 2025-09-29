@@ -1,0 +1,5 @@
+{
+"led_per":78,
+"boxes":6,
+"debug":false
+}
